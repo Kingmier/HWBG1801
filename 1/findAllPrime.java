@@ -4,6 +4,7 @@
 
 class FindAllPrime {
 	public static void main(String arg[]) {
+		System.out.println("The prime between 2 and 100 is :");
 		for (int iLoop = 3; iLoop < 100; ++iLoop)
 		{
 			int iCount = 0;
